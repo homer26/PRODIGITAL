@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GLOBO RJ">
+    <display-name lang="pt">GLOBO RJ</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20180715000000 -0300" stop="20180715013000 -0300" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715013000 -0300" stop="20180715020000 -0300" channel="FOX">
+    <title lang="pt">O Que Você Não Viu</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715020000 -0300" stop="20180715023000 -0300" channel="FOX">
+    <title lang="pt">Copa 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715023000 -0300" stop="20180715030000 -0300" channel="FOX">
+    <title lang="pt">Copa 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715030000 -0300" stop="20180715033000 -0300" channel="FOX">
+    <title lang="pt">Copa 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715033000 -0300" stop="20180715050000 -0300" channel="FOX">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715050000 -0300" stop="20180715063000 -0300" channel="FOX">
+    <title lang="pt">Debate Final Especialistas - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715063000 -0300" stop="20180715070000 -0300" channel="FOX">
+    <title lang="pt">O Que Você Não Viu</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715070000 -0300" stop="20180715080000 -0300" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715080000 -0300" stop="20180715111500 -0300" channel="FOX">
+    <title lang="pt">Bom Dia Fox - Ao Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715111500 -0300" stop="20180715121500 -0300" channel="FOX">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715121500 -0300" stop="20180715141500 -0300" channel="FOX">
+    <title lang="pt">Copa 2018 - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715141500 -0300" stop="20180715151500 -0300" channel="FOX">
+    <title lang="pt">Pós Jogo - Ao Vivo</title>
+    <desc lang="pt">Depois da partida, não perca um resumo, com os melhores lances, os gols, estatísticas e a classificação atualizada do campeonato(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715151500 -0300" stop="20180715170000 -0300" channel="FOX">
+    <title lang="pt">Boa Tarde Fox - Ao Vivo</title>
+    <desc lang="pt">Nivaldo Prieto e Helena Calil comandam o(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715170000 -0300" stop="20180715200000 -0300" channel="FOX">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715200000 -0300" stop="20180715210000 -0300" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715210000 -0300" stop="20180715223000 -0300" channel="FOX">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715223000 -0300" stop="20180716000000 -0300" channel="FOX">
+    <title lang="pt">Debate Final Especialistas - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715014000 -0300" stop="20180715020500 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Hayley tenta fugir com seu indistinto namorado, Stan e Francine fazem todo o possível para evitar que isto aconteça. A tragédia assola os moradores de Langley Falls neste 100º episódio de American Dad(n)</desc>
+    <credits>
+      <director>Tim Parsons</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Curtis Armstrong</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180715020500 -0300" stop="20180715023500 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando Peter recebe ingressos para uma luta de boxe como presente de aniversário, ele inscreve Lois para competir. Para a surpresa de todos, Lois começa a dominar a luta e Peter decide se tornar seu empresário(n)</desc>
+    <credits>
+      <director>Julius Wu</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180715023500 -0300" stop="20180715030000 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Bob recebe um fornecedor de carne que diz economizar dinheiro a seus clientes com cada ordem. No entanto, os Belchers estão envolvidos em uma investigação liderada por Hugo e Ron(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180715030000 -0300" stop="20180715043500 -0300" channel="FX">
+    <title lang="pt">Rio Sangrento</title>
+    <desc lang="pt">Um enorme tubarão que devora seres humanos está semeando o pânico entre os banhistas do rio Mississippi. John Sanders, decide caçar o tubarão com a ajuda de sua ex-esposa Kelly(n)</desc>
+    <credits>
+      <director>Charles Robert Carner</director>
+      <actor>Lou Diamond Phillips</actor>
+      <actor>Kristy Swanson</actor>
+      <actor>Coolio</actor>
+      <actor>Jaimz Woolvett</actor>
+      <actor>Dennis Haskins</actor>
+      <actor>Shirley Davidson</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180715043500 -0300" stop="20180715063500 -0300" channel="FX">
+    <title lang="pt">Stealth - Ameaça Invisível</title>
+    <desc lang="pt">Um raio faz com que um novo jato secreto dotado de inteligência artificial passe a descumprir ordens e realizar missões por conta própria, podendo gerar acontecimentos desastrosos(n)</desc>
+    <credits>
+      <director>Rob Cohen</director>
+      <actor>Josh Lucas</actor>
+      <actor>Jessica Biel</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Sam Shepard</actor>
+      <actor>Richard Roxburgh</actor>
+      <actor>Joe Morton</actor>
+      <actor>Ian Bliss</actor>
+      <actor>Ebon Moss-Bachrach</actor>
+      <actor>Michael Denkha</actor>
+      <actor>Rocky Helton</actor>
+      <actor>Christopher Naismith</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180715063500 -0300" stop="20180715070000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Peter está convencido de que o jogo americano de um restaurante é o mapa de um tesouro. O boato logo se espalha, dando início a uma busca por toda a cidade e colocando os moradores de Quahog uns contra os outros(n)</desc>
+    <credits>
+      <director>John Holmquist</director>
+      <director>Dominic Bianchi</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Mike Henry</actor>
+      <actor>Yvette Nicole Brown</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S13 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180715070000 -0300" stop="20180715073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715073000 -0300" stop="20180715080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715080000 -0300" stop="20180715083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715083000 -0300" stop="20180715090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715090000 -0300" stop="20180715100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715100000 -0300" stop="20180715103000 -0300" channel="FX">
+    <title lang="pt">O Último Cara da Terra: Companheiro de Gênero</title>
+    <desc lang="pt">Tandy faz grandes esforços para convencer a todos de que ele é um feminista. Enquanto isso, Carol fica com ciúmes do tempo que Gail passa com Erica e Dawn, já Todd tenta ser uma figura paterna para Jasper(n)</desc>
+    <credits>
+      <director>Kristen Schaal</director>
+      <actor>Cleopatra Coleman</actor>
+      <actor>January Jones</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Mel Rodriguez</actor>
+      <actor>Will Forte</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180715103000 -0300" stop="20180715110000 -0300" channel="FX">
+    <title lang="pt">Ghosted: Ghost Studz</title>
+    <desc lang="pt">Quando os atores Chaz e Jared, do programa de caça-fantasmasu0027'Ghost Studz'', se deparam acidentalmente como uma atividade paranormal de verdade, Max e Leroy devem resgatá-los de um hospício abandonado(n)</desc>
+    <credits>
+      <director>Rob Schrab</director>
+      <actor>Adam Scott</actor>
+      <actor>Ally Walker</actor>
+      <actor>Amber Stevens West</actor>
+      <actor>Craig Robinson</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715110000 -0300" stop="20180715120000 -0300" channel="FX">
+    <title lang="pt">The Orville: A Regra da Maioria</title>
+    <desc lang="pt">Ed envia uma equipe liderada por Kelly para buscar dois antropólogos da União que desapareceram em um planeta semelhante à Terra do século XXI(n)</desc>
+    <credits>
+      <director>Tucker Gates</director>
+      <actor>Adrianne Palicki</actor>
+      <actor>Penny Johnson Jerald</actor>
+      <actor>Seth MacFarlane</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180715120000 -0300" stop="20180715123000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando Quagmire encontra uma mulher chamada Sonja que é tão insaciável sexualmente quanto ele, ele fica animado em finalmente estar com alguém que não o julgará(n)</desc>
+    <credits>
+      <director>Pete Michels</director>
+      <director>Dominic Bianchi</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S13 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180715123000 -0300" stop="20180715142500 -0300" channel="FX">
+    <title lang="pt">A Vida Secreta de Walter Mitty</title>
+    <desc lang="pt">Ben Stiller é Walter Mitty, o editor de fotografias da revista Life. A publicação está prestes a lançar seu último número impresso e ele é o responsável pela capa. Só tem um problema: ele não encontra o negativo da foto escolhida(n)</desc>
+    <credits>
+      <director>Ben Stiller</director>
+      <actor>Ben Stiller</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Jon Daly</actor>
+      <actor>Kathryn Hahn</actor>
+      <actor>Terence Bernie Hines</actor>
+      <actor>Adam Scott</actor>
+      <actor>Paul Fitzgerald</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180715142500 -0300" stop="20180715162500 -0300" channel="FX">
+    <title lang="pt">De Volta para o Futuro 3</title>
+    <desc lang="pt">Mais uma vez Michael J. Fox viaja no tempo para tentar acertar as confusões das viagens anteriores. Só que desta vez ele vai para o velho oeste(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Michael J. Fox</actor>
+      <actor>Christopher Lloyd</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Lea Thompson</actor>
+      <actor>Elizabeth Shue</actor>
+      <actor>Thomas F. Wilson</actor>
+      <actor>James Tolkan</actor>
+      <actor>Sean Gregory Sullivan</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715162500 -0300" stop="20180715182000 -0300" channel="FX">
+    <title lang="pt">As Férias da Minha Vida</title>
+    <desc lang="pt">Após ser diagnosticada com uma doença terminal, uma mulher decide partir para a Europa para curtir o restante de sua vida(n)</desc>
+    <credits>
+      <director>Wayne Wang</director>
+      <actor>Queen Latifah</actor>
+      <actor>LL Cool J</actor>
+      <actor>Timothy Hutton</actor>
+      <actor>Giancarlo Esposito</actor>
+      <actor>Alicia Witt</actor>
+      <actor>Gérard Depardieu</actor>
+      <actor>Jane Adams</actor>
+      <actor>Michael Estime ,Susan Kellerman</actor>
+      <actor>Matt Ross</actor>
+      <actor>Kendal Mosby</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180715182000 -0300" stop="20180715200000 -0300" channel="FX">
+    <title lang="pt">Loucuras na Idade Média</title>
+    <desc lang="pt">O mundo da Idade Média era povoado por heróis cujas façanhas têm cativado multidões através dos séculos. Lendas com nomes como Lancelot, Galahad, Gawain e Jamal Walker(n)</desc>
+    <credits>
+      <director>Gil Junger</director>
+      <actor>Martin Lawrence</actor>
+      <actor>Marsha Thomason</actor>
+      <actor>Tom Wilkinson</actor>
+      <actor>Vincent Regan</actor>
+      <actor>Daryl Mitchell</actor>
+      <actor>Michael Countryman</actor>
+      <actor>Kevin Conway</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180715200000 -0300" stop="20180715220000 -0300" channel="FX">
+    <title lang="pt">Indiana Jones e os Caçadores da Arca Perdida</title>
+    <desc lang="pt">Em busca da cobiçada arca perdida, onde estariam os mandamentos entregues por Deus a Moisés, Indiana Jones não mede esforços para encontrá-la(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Harrison Ford</actor>
+      <actor>Karen Allen</actor>
+      <actor>Wolf Kahler</actor>
+      <actor>Paul Freeman</actor>
+      <actor>Ronald Lacey</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Denholm Elliott</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Anthonny Higgins</actor>
+      <actor>Vic Tablian</actor>
+      <actor>Don Fellows</actor>
+    </credits>
+    <date>1981</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180715220000 -0300" stop="20180716014000 -0300" channel="FX">
+    <title lang="pt">Indiana Jones e o Templo da Perdição</title>
+    <desc lang="pt">Indiana Jones encontra uma tribo primitiva que lhe dará uma nova missão: resgatar as pedras sagradas que foram roubadas por um grupo de fanáticos(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Harrison Ford</actor>
+      <actor>Kate Capshaw</actor>
+      <actor>Jonathan Ke Quan</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Roshan Seth</actor>
+      <actor>Philip Stone</actor>
+      <actor>Roy Chiao</actor>
+      <actor>David Yip</actor>
+      <actor>Ric Young</actor>
+      <actor>Chua Kah Joo</actor>
+      <actor>Rex Ngui</actor>
+      <actor>Philip Tan</actor>
+      <actor>Dan Aykroyd</actor>
+    </credits>
+    <date>1984</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
